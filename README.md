@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohamad Jalali
 
-💻 Backend & Mobile App Developer | 🐍 Python, Java & Dart
+💻 Software Developer | 🐍 Python, Java & Dart
 
 ### 🛠 Tech Stack
 - 🔧 Django, Spring Boot
