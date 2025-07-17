@@ -1,18 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mohamad Jalali</h1>
 
-### 💻 Software Developer | 🐍 Python, Java & Dart
-
-### 🛠 Tech Stack
-- 🔧 Django, Spring Boot
-- 💾 PostgreSQL, Redis
-- 🌐 REST APIs, FastAPI
-- 📱 Flutter (Cross-platform mobile development)
-
-### 🚀 What I Do
-- Build scalable backend services
-- Create mobile apps with Flutter
-- Design RESTful APIs for mobile & web
-
 <br clear="both">
 
 <p align="left"></p>
@@ -56,7 +43,18 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jalali-mohamad.jalali-mohamad&"  />
 </div>
 
-###
+### 💻 Software Developer | 🐍 Python, Java & Dart
+
+### 🛠 Tech Stack
+- 🔧 Django, Spring Boot
+- 💾 PostgreSQL, Redis
+- 🌐 REST APIs, FastAPI
+- 📱 Flutter (Cross-platform mobile development)
+
+### 🚀 What I Do
+- Build scalable backend services
+- Create mobile apps with Flutter
+- Design RESTful APIs for mobile & web
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jalali-mohamad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
